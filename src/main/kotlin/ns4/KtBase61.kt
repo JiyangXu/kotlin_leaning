@@ -1,7 +1,7 @@
 package ns4
 
 
-//TODO : 60 Kotlin deconstructing
+//TODO : 61 Kotlin deconstructing
 //1. list and deconstructing
 //2.decompile and see how java set 3 variables
 //3. masking receive values for deconstruction

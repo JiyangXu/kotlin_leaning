@@ -1,7 +1,7 @@
 package ns4
 
 
-//TODO : 60 Kotlin set creation and get item
+//TODO : 62 Kotlin set creation and get item
 
 fun main() {
     val set: Set<String> = setOf("info", "is", "here", "here") // set would not contain duplicated items
